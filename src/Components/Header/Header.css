@@ -1,0 +1,14 @@
+.header img{
+ border-radius: 10px;
+ height: 50px;
+ margin-left: 624px;
+ 
+}
+.header{
+    background-color: rgb(40, 105, 148);
+    height: 125px;
+    border-radius:2px
+}
+.header-text{
+    text-align: center;
+}
